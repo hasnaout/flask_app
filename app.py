@@ -4,7 +4,7 @@ app=Flask(__name__)
 
 @app.route("/")
 def home():
-  return "Hello Devops -Kocker CI Pipline!"
+  return "Hello Devops -Kocker CI Pipline! partie 2"
 
 
 if __name__ =="__main__":
